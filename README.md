@@ -1,7 +1,7 @@
-# @itznesbro/discord-helper
+# discord-helper
 > Simple And Minimal Package To Make Discord.js Easier
 
-[![version](https://img.shields.io/npm/v/@itznesbro/discord-helper?label=&color=29BC9B)](https://npm.im/discord-helper) [![downloads](https://img.shields.io/npm/dm/discord-helper?label=&color=29BC9B)](https://npm.im/discord-helper)
+[![version](https://img.shields.io/npm/v/@itznesbro/discord-helper?label=&color=29BC9B)](https://npm.im/@itznesbro/discord-helper) [![downloads](https://img.shields.io/npm/dm/@itznesbro/discord-helper?label=&color=29BC9B)](https://npm.im/@itznesbro/discord-helper)
 
 ## Install
 
