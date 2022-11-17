@@ -44,10 +44,6 @@ jobs:
       - name: Install deps
         run: pnpm i
 
-      # Runs a set of commands using the runners shell
-      - name: Build and Test
-        run: pnpm test
-
   release:
     runs-on: ubuntu-latest
     needs: ['test']
